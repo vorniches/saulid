@@ -1,6 +1,6 @@
 ![saulid](https://github.com/vorniches/saulid/blob/master/saulid.png?raw=true)
 
-# Saulid Image Manipulator
+# Saulid Image Goatseficator
 
 This Python script reduces the quality of an image and resizes it to be 2x wider with a maximum width of 500 pixels.
 
