@@ -2,7 +2,7 @@
 
 # Saulid Image Manipulator
 
-This Python script reduces the quality of an image and resizes it to be 50% wider with a maximum width of 500 pixels. It is intended for fun.
+This Python script reduces the quality of an image and resizes it to be 2x wider with a maximum width of 500 pixels.
 
 ## Usage
 
